@@ -1,0 +1,13 @@
+Task 2: Data Cleaning and  Preprocessing: 
+
+Description: Clean and preprocess a raw dataset to
+make it suitable for analysis.
+
+Objective:
+
+.Handle missing data (e.g., imputation, removal). 
+.Detect and remove outliers. 
+.Convert categorical variables into numerical format 
+.using one-hot encoding or label encoding. 
+.Normalize or standardize numerical data. 
+.Tools: Python, pandas, scikit-learn
